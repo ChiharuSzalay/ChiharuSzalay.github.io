@@ -1,0 +1,28 @@
+﻿body
+{
+}
+
+.main {
+    margin: auto;
+    width: 500px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.justify-text {
+    text-align: justify;
+    text-justify: auto;
+}
+
+.pdf {
+    margin: auto;
+    height: 1100px;
+    width: 90%;
+}
+
+    .pdf > embed {
+        height: 100%;
+        width: 100%;
+    }
